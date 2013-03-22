@@ -9,15 +9,15 @@
 Структура программы
 -------------------
 
-    -Creator.py
-    -Reader.py
-    -Geometry.py
-    -Graphs.py
-    -GeoTests.py
-    -Visual.py
-    +task_map.py
-    -file1.txt
-    -file2.txt
+- Creator.py
+- Reader.py
+- Geometry.py
+- Graphs.py
+- GeoTests.py
+- Visual.py
++ task_map.py
+- file1.txt
+- file2.txt
  
 Описание
 ---------
@@ -68,15 +68,19 @@ Versions
 ========
 
 UPD v1.7:
+
 1. Обработка ошибок
 2. тесты
 
 UPD v1.8:
+
 1.  о программе, хэлп
 2.  использование ООП
 
 UPD v1.9:
+
 Добавлена возможность работы с текстовыми файлами.
 
 UPD v2.0:
+
 Рефакторинг, исправление ошибок, добавлен аргумент выбора формата входного файла.
